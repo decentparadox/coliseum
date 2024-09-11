@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: "Departure";
+    src: url("/fonts/Departure.otf");
+}
+body{
+    background-color: #1f2021;
+    color:white;
+    font-family: "Departure";
+}
